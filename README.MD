@@ -3,9 +3,9 @@ This has certainly been the biggest sole project I have been working so far, and
 
 This project is still in development, and I am planning to add more features in the future. 
 
-```
-    I am constantly looking for ways to improve my skills and learn new things. If you see any mistakes or have any suggestions, please let me know. I would be very grateful for your feedback.
-```
+<p style="background-color: #93291b; border: 1px solid #333333; border-radius: 3px 3px 3px 3px; box-shadow: 0 0 1px #93291b inset; color: #f5f5f5; padding: 5px; "> 
+I am constantly looking for ways to improve my skills and learn new things. If you see any mistakes or have any suggestions, please let me know. I would be very grateful for your feedback.
+</p>
 
 ### Frontend 
 For information, please visit the frontend repository 
