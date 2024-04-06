@@ -35,7 +35,7 @@ A Graph database have been selected for this project as it can be really efficie
 We are currently using Neo4j as database, for more information on Neo4j please see it [Here](NEO4J.MD) 
 
 ### Database structure
-<img src='README/IMG/Neo4j.png'/>
+<img src='./IMG/Neo4j.png'/>
 
 ### Database Schemas
 User | Stack | Software 
