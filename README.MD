@@ -3,7 +3,9 @@ This has certainly been the biggest sole project I have been working so far, and
 
 This project is still in development, and I am planning to add more features in the future. 
 
+```
     I am constantly looking for ways to improve my skills and learn new things. If you see any mistakes or have any suggestions, please let me know. I would be very grateful for your feedback.
+```
 
 ### Frontend 
 For information, please visit the frontend repository 
