@@ -1,0 +1,36 @@
+# Python artifacts:
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+
+# Test artifacts:
+tests/
+test_endpoints/
+.pytest_cache/
+.coverage
+htmlcov/
+
+
+# Packaging artifacts:
+dist/
+*.egg-info/
+
+# IDEs
+.idea/
+.vscode/
+
+#Neo4j
+*.dump
+neo4j/
+neomodel/
+
+# Other
+README/
+delete.py
+app.log
+logger.py
+*.MD
+.DS_Store

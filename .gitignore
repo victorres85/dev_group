@@ -1,0 +1,61 @@
+# Python artifacts:
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+
+
+# Test artifacts:
+.pytest_cache/
+.coverage
+htmlcov/
+tests/
+pytest.ini
+
+
+
+# Packaging artifacts:
+dist/
+build/
+*.egg-info/
+
+# IDEs
+.idea/
+.vscode/
+.ipynb_checkpoints/
+
+
+#Neo4j
+*.dump
+*.rdb
+neo4j/
+neomodel/
+
+# Other
+README/
+delete.py
+delete01.py
+.env
+app.log
+# *.MD
+*.txt
+.DS_Store
+report.xml
+static/
+target/
+tests/
+tests_endpoints/
+
+
+Bitbucket.md
+DEPLOYSSL.MD
+
+#Docker
+Dockerfile
+*.yml
+.hide
+
+neo4j/
+neomodel/
